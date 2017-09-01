@@ -1,0 +1,10 @@
+f,f,f,f,f,t,t,f,f,f,t,t,l,f,w,f,f,t,f,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,f,n 
+f,f,f,f,f,t,f,f,f,f,f,t,l,f,n,f,f,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,t,n 
+f,f,f,f,f,t,f,f,f,f,f,t,l,f,n,f,f,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,n 
+f,f,f,f,f,f,f,f,t,f,t,f,l,f,n,f,f,t,f,f,f,t,f,f,f,t,f,f,f,f,f,f,f,t,t,n 
+f,f,f,f,f,f,f,f,t,f,t,f,l,f,n,f,f,t,f,f,f,t,f,f,f,t,f,f,f,f,t,f,f,t,t,n
+f,f,f,f,t,f,t,t,t,f,f,f,l,f,n,f,f,t,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,t,t,n 
+f,f,f,f,f,f,t,t,t,f,t,f,l,f,n,f,f,t,f,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,f,n 
+f,f,f,f,t,f,t,t,t,f,t,f,l,f,n,f,f,t,f,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,f,n
+f,f,f,f,f,t,f,f,f,t,t,f,l,f,n,f,f,t,f,t,f,f,f,t,f,t,f,f,f,f,t,f,t,t,f,n 
+f,f,f,f,f,t,f,f,f,t,t,f,l,f,n,f,f,t,f,t,f,f,f,t,f,t,f,f,f,f,t,f,t,f,f,n
